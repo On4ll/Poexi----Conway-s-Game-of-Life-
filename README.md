@@ -1,3 +1,6 @@
+![gol](https://github.com/On4ll/Poexi----Conway-s-Game-of-Life-/assets/47379363/8a506076-fb11-47b4-800b-de744c9a0b96)
+
+
 Hi!
 
 Today I found about Conway's game of life and was absolutely facinated by it.
@@ -9,5 +12,3 @@ it is combination of two words, possibility and excitement.
 I was super excited when I found about it and saw the possibilities 
 for so many amazing patterns. I want to make a neural network project with it
 also. Super hyped!)
-
-![gol](https://github.com/On4ll/Poexi----Conway-s-Game-of-Life-/assets/47379363/8a506076-fb11-47b4-800b-de744c9a0b96)
